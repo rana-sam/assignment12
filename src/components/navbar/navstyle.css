@@ -1,0 +1,23 @@
+.navbar{
+    margin-top: 20px;
+}
+.navlist{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.signin{
+    color: blue;
+    background-color: white;
+    border-color: blue;
+    outline: none;
+    width: 10%;
+
+}
+.signup{
+    color: white;
+    background-color: blue;
+    border-color: blue;
+    outline: none;
+    width: 10%;
+}
