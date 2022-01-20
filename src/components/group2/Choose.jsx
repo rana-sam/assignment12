@@ -5,7 +5,7 @@ import icon3 from './image/icon03.png'
 export default function choose() {
     return (
         <div>
-            <div className="row">
+            <div className="row w-100">
                 <div className="col-12 text-center pb-5 mb-5">
                     <h1>What Can We Help You Find?</h1>
                 </div>
