@@ -2,11 +2,11 @@ import React from 'react'
 import './navstyle.css'
 export default function nav() {
     return (
-        <div className="Container">
+        
             <div className='row navbar'>
                 <div className='col-1'></div>
-                <div className='col-3'>besmik</div>
-                <div className='col-7 navlist'>
+                <div className='col-4'>besmik</div>
+                <div className='col-6 navlist'>
                     <li>Home</li>
                     <li>About Us</li>
                     <li>Feature</li>
@@ -16,6 +16,6 @@ export default function nav() {
                 </div>
                 <div className='col-1'></div>
             </div>
-      </div>
+     
     )
 }
