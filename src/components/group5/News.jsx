@@ -15,7 +15,7 @@ export default function news() {
                   <span>
                   <p>Where are you searching for homes?</p>
                   <input className='inputgroup5' type="text" placeholder='City, Address, ZIP'/>
-                  <img className='searchbox' src={search} alt="" width={50}height={40} />
+                  <img className='searchbox' src={search} alt="" width={50}height={39} />
                   </span>
               </div>
               <div className="col-1"></div>
