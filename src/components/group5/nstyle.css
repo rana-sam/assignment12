@@ -1,0 +1,14 @@
+.news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #0F2A47;
+    height: 300px;
+}
+.searchbox{
+    margin-bottom:5px;
+}
+::placeholder{
+    font-size: 0.6rem;
+}

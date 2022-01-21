@@ -9,7 +9,7 @@ import heart2 from "./image/heart.png";
 import arrow from "./image/arrow.png";
 export default function feature() {
   return (
-    <div className="pt-5 mt-5 pb-5 mb-5">
+    <div className="pt-5 mt-5 pb-5 mb-5 w-100">
       <div className="row w-100">
         <div className="col-1"></div>
         <div className="col-10 d-flex justify-content-between">
@@ -36,7 +36,7 @@ export default function feature() {
         </div>
         <div className="col-1"></div>
       </div>
-      <div className="row pt-5 ">
+      <div className="row pt-5 w-100">
         <div className="col-1"></div>
         <div className="col-10 d-flex justify-content-between   ">
           <div className="d-flex rounded shadow pb-3 pe-2 ">
@@ -73,7 +73,7 @@ export default function feature() {
         </div>
         <div />
       </div>
-      <div className="row pt-5 ">
+      <div className="row pt-5 w-100">
         <div className="col-1"></div>
         <div className="col-10 d-flex justify-content-between   ">
           <div className="d-flex rounded shadow-sm pb-3 pe-2 ">
