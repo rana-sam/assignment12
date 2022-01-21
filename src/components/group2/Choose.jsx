@@ -4,7 +4,7 @@ import icon2 from './image/icon02.png'
 import icon3 from './image/icon03.png'
 export default function choose() {
     return (
-        <div>
+        <div className='pb-5 mb-5'>
             <div className="row w-100">
                 <div className="col-12 text-center pb-5 mb-5">
                     <h1>What Can We Help You Find?</h1>
