@@ -9,6 +9,10 @@
 .searchbox{
     margin-bottom:5px;
 }
+.inputgroup5{
+    height: 40px;
+    width: 300px;
+}
 ::placeholder{
     font-size: 0.6rem;
 }

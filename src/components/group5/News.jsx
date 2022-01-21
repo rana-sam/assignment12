@@ -10,12 +10,12 @@ export default function news() {
                   <h1>Talk to a Redfin Agent</h1>
                   <p className='pt-3'>Start your search with an expert local agent—there’s no pressure or obligation.</p>
               </div>
-              <div className="col-2"></div>
-              <div className="col-3 mt-3 d-flex justify-content-center">
+              <div className="col-1"></div>
+              <div className="col-4 mt-3 d-flex justify-content-center">
                   <span>
                   <p>Where are you searching for homes?</p>
-                  <input type="text" placeholder='City, Address, ZIP'/>
-                  <img className='searchbox' src={search} alt="" width={40}height={29} />
+                  <input className='inputgroup5' type="text" placeholder='City, Address, ZIP'/>
+                  <img className='searchbox' src={search} alt="" width={50}height={40} />
                   </span>
               </div>
               <div className="col-1"></div>
