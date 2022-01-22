@@ -3,7 +3,7 @@ import './nstyle.css'
 import search from './image/Search.png'
 export default function news() {
     return (
-        <div className='news'>
+        <div className='news mb-5'>
             <div className="row w-100">
               <div className="col-1"></div>
               <div className="col-4  fs-5">
