@@ -1,0 +1,38 @@
+
+.content p{
+    font-size: 0.9rem;
+}
+.ellip1{
+    position: relative;
+    left: 15%;
+    top:20%;
+}
+.ellip2{
+    position: relative;
+    top: 55%;
+    right: 50%;
+}
+.ellip3{
+    position: relative;
+    top: 25%;
+    left: 80%;
+}
+.ellip4{
+    position: relative;
+    top: 10%;
+    left: 70%;
+}
+.ellip5{
+    position: relative;
+    top: 20%;
+    right: 20%;
+}
+.ellip6{
+    position: relative;
+    top: 45%;
+}
+.ellip7{
+    position: relative;
+    top: 35%;
+    /* right: 10%; */
+}
