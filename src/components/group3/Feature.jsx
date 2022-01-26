@@ -118,9 +118,9 @@ export default function feature() {
         </div>
         <div />
         <div className="row mt-5">
-            <div className="col-12 d-flex justify-content-center">
-                <img src={arrow} alt="" />
-            </div>
+          <div className="col-12 d-flex justify-content-center">
+            <img src={arrow} alt="" />
+          </div>
         </div>
       </div>
     </div>
