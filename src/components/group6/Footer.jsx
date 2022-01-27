@@ -1,5 +1,5 @@
 import React from "react";
-import logo from './image/logo1.png'
+import logo from "./image/logo1.png";
 export default function Footer() {
   return (
     <div>
@@ -44,12 +44,12 @@ export default function Footer() {
         <div className="col-1"></div>
       </div>
       <div className="row w-100 mb-5 mt-3">
-          <div className="col-1"></div>
-          <div className="col-10 d-flex justify-content-between"> 
-          <img src={logo} alt="" width={70}  height={20}/>
+        <div className="col-1"></div>
+        <div className="col-10 d-flex justify-content-between">
+          <img src={logo} alt="" width={70} height={20} />
           <p className="text-secondary">© 2021 Besnik. All Rights Reserved</p>
-          </div>
-          <div className="col-1"></div>
+        </div>
+        <div className="col-1"></div>
       </div>
     </div>
   );
