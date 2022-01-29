@@ -49,7 +49,6 @@ export default function Footer() {
           <img src={logo} alt="" width={70} height={20} />
           <p className="text-secondary">© 2021 Besnik. All Rights Reserved</p>
         </div>
-        
         <div className="col-1"></div>
       </div>
     </div>
